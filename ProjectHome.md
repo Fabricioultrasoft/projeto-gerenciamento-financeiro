@@ -1,0 +1,1 @@
+Projeto de um sistema de gerenciamento para vários tipos de ramo(auto peças, loja de pneus, roupas...).
